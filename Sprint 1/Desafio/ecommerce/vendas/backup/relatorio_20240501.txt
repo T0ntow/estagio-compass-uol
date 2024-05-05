@@ -1,0 +1,15 @@
+Data do sistema operacional: qua 01 mai 2024 15:27:00 -03
+Data do primeiro registro de venda contido no arquivo: 01/03/2023
+Data do último registro de venda contido no arquivo: 19/03/2023
+Quantidade total de itens diferentes vendidos: 11
+Primeiras 10 linhas do arquivo backup-dados-20240501.csv:
+id,produto,quantidade,preço,data
+1,Lapizeira 07,31,7.90,01/03/2023
+2,calça,5,120.00,02/03/2023
+3,livro,2,2.00,12/03/2023
+4,meia,20,15.00,04/03/2023
+5,lapizeira,8,5.30,18/03/2023
+6,camisa preta,12,40.00,06/03/2023
+7,bermuda jeans,12,50.00,07/03/2023
+8,mochila,12,64.00,11/03/2023
+9,régua,23,4.30,17/03/2023
