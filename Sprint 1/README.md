@@ -1,9 +1,3 @@
-# Exercícios
-
-# Evidências
-
-# Certificados
-
 # Desafios
 
 Desafio da sprint 1
