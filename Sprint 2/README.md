@@ -13,3 +13,17 @@ Caso de estudo biblioteca
 
 Caso de estudo loja
 [Caso Loja](/Sprint%202/exercicios/casoLoja/loja_consultas.sql)
+
+
+# Evidências
+
+Modole dimensional
+![Evidencia 1](evidencias/dimensional.png)
+
+Modole relacional
+![Evidencia 2](evidencias/relacional.png)
+
+# Certificados
+
+- Certificado do curso: AWS Skill Builder - AWS Partner 
+![Curso ABC](certificados/AWS%20Course%20Completion%20Certificate.pdf)
