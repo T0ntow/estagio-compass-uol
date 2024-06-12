@@ -7,7 +7,9 @@ tenho 20 anos e atualmente estou cursando Sistema de Informação no IFBA.
 
 2. [Sprint 2](Sprint%202/README.md)
 
-2. [Sprint 3](Sprint%203/README.md)
+3. [Sprint 3](Sprint%203/README.md)
+
+4. [Sprint 3](Sprint%204/README.md)
 
 
 ## Aprendizados
@@ -18,8 +20,8 @@ Durante a primeira etapa do meu programa de bolsas, dediquei-me ao estudo do ver
 #### Sprint 2
 Na segunda sprint, estudei de SQL e normalização de dados. Aprender SQL é essencial para a manipulação e consulta de bancos de dados relacionais, permitindo extrair informações valiosas e realizar análises complexas. A normalização de dados, por sua vez, é uma prática fundamental para garantir a integridade e eficiência dos bancos de dados, evitando redundâncias e promovendo a consistência das informações.
 
-# Dicas
+#### Sprint 3
+A terceira sprint foi dedicada à exploração da linguagem de programação Python. Essa etapa se mostrou crucial para o meu aprendizado, devido à sua versatilidade e vasta gama de aplicações.
 
-- [Mark Down - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-- [Github - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+#### Sprint 4
+Na quarta sprint, embarquei em uma jornada fascinante pelo mundo dos containers com Docker e Kubernetes. Essa etapa foi crucial para aprimorar minhas habilidades na construção, implantação e gerenciamento de aplicações de forma eficiente e escalável.
