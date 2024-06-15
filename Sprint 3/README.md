@@ -45,4 +45,4 @@ Saída - parte 8.2
 # Certificados
 
 - Certificado do curso: AWS Partner: Economias na nuvem AWS 
-![Curso ABC](certificados/AWS%20Course%20Completion%20Certificate.pdf)
+![Certificado](certificados/AWS%20Course%20Completion%20Certificate.pdf)

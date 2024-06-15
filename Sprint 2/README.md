@@ -26,4 +26,4 @@ Modole relacional
 # Certificados
 
 - Certificado do curso: AWS Skill Builder - AWS Partner 
-![Curso ABC](certificados/AWS%20Course%20Completion%20Certificate.pdf)
+![Certificado](certificados/AWS%20Course%20Completion%20Certificate.pdf)
