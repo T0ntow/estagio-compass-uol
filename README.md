@@ -11,6 +11,7 @@ tenho 20 anos e atualmente estou cursando Sistema de Informação no IFBA.
 
 4. [Sprint 4](Sprint%204/README.md)
 
+5. [Sprint 5](Sprint%205/README.md)
 
 ## Aprendizados
 
@@ -25,3 +26,6 @@ A terceira sprint foi dedicada à exploração da linguagem de programação Pyt
 
 #### Sprint 4
 Na quarta sprint, embarquei em uma jornada fascinante pelo mundo dos containers com Docker e Kubernetes. Essa etapa foi crucial para aprimorar minhas habilidades na construção, implantação e gerenciamento de aplicações de forma eficiente e escalável.
+
+#### Sprint 5
+Na quinta sprint, utilizei o Amazon S3 (Simple Storage Service) para armazenamento e operações de dados. AWS S3 é um serviço de armazenamento de objetos que oferece alta durabilidade, disponibilidade e escalabilidade.
