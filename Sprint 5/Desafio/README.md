@@ -3,16 +3,16 @@
 ## Conjunto de dados
 
 #### Descrição dos Campos
-__Nome da obra:__ Descrição detalhada do tipo de serviço ou obra realizado.
-__Campus/Reitoria:__ Identificação do campus ou reitoria onde a obra foi realizada.
-__Município:__ Cidade onde o campus está localizado.
-__Estado:__ Unidade federativa onde a obra foi realizada.
-__Data de início:__ Data em que a obra ou serviço teve início.
-__Situação da obra:__ Status atual da obra (por exemplo, Concluída, Em andamento).
-__Data da situação da obra:__ Data em que foi atualizada a situação da obra.
-__Valor da obra:__ Custo total da obra.
-__Valor liquidado em 2023.2:__ Valor que foi pago no segundo semestre de 2023.
-__Percentual executado em 2023.2:__ Percentual da obra que foi concluído no segundo semestre de 2023.
+1. __Nome da obra:__ Descrição detalhada do tipo de serviço ou obra realizado.
+2. __Campus/Reitoria:__ Identificação do campus ou reitoria onde a obra foi realizada.
+3. __Município:__ Cidade onde o campus está localizado.
+4.__Estado:__ Unidade federativa onde a obra foi realizada.
+5.__Data de início:__ Data em que a obra ou serviço teve início.
+6. __Situação da obra:__ Status atual da obra (por exemplo, Concluída, Em andamento).
+7. __Data da situação da obra:__ Data em que foi atualizada a situação da obra.
+8. __Valor da obra:__ Custo total da obra.
+9. __Valor liquidado em 2023.2:__ Valor que foi pago no segundo semestre de 2023.
+10. __Percentual executado em 2023.2:__ Percentual da obra que foi concluído no segundo semestre de 2023.
 
 
 ## Explicação Consultas
