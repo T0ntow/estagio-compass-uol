@@ -15,6 +15,9 @@ tenho 20 anos e atualmente estou cursando Sistema de Informação no IFBA.
 
 6. [Sprint 6](Sprint%206/README.md)
 
+6. [Sprint 7](Sprint%207/README.md)
+
+
 ## Aprendizados
 
 #### Sprint 1
@@ -34,3 +37,6 @@ Na quinta sprint, utilizei o Amazon S3 (Simple Storage Service) para armazenamen
 
 #### Sprint 6
 Durante essa sprint, aprendi bastante sobre diversos serviços da AWS, enriquecendo ainda mais o meu conhecimento.
+
+#### Sprint 7
+Na sétima sprint, avancei significativamente nos serviços da AWS, solidificando meu conhecimento em AWS Lambda ao integrar a função para trazer dados de uma API para o Amazon S3
