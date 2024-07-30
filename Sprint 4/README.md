@@ -4,8 +4,7 @@ Desafio da sprint 4
 [Desafio Sprint 4](/Sprint%204/Desafio/README.md)
 
 # Exercicios
-
-__Exercicios de Python__
+[Exercícios de Python](exercicios/exercicios_python/)
 
 # Evidências
 
@@ -17,7 +16,6 @@ Imagens criadas
 
 
 # Certificados
-
 - Certificado do curso: AWS Partner: Credenciamento (Técnico)
 ![Certificado](certificados/13246_3_5549227_1718391542_AWS%20Course%20Completion%20Certificate.pdf)
 
