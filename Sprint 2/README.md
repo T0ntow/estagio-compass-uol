@@ -1,24 +1,27 @@
 # Desafios
 
-Desafio da sprint 2
+## Desafio da Sprint 2
 [Desafio Sprint 2](/Sprint%202/Desafio/README.md)
 
+## Exercícios
 
-# Exercicios
+### Exercícios de SQL
 
-__Exercicios de SQL__
+- **Caso de Estudo: Biblioteca**  
+  [Consultas SQL - Biblioteca](/Sprint%202/exercicios/casoBiblioteca/biblioteca_consultas.sql)
 
-Caso de estudo biblioteca
-[Caso biblioteca](/Sprint%202/exercicios/casoBiblioteca/biblioteca_consultas.sql)
+- **Caso de Estudo: Loja**  
+  [Consultas SQL - Loja](/Sprint%202/exercicios/casoLoja/loja_consultas.sql)
 
-Caso de estudo loja
-[Caso Loja](/Sprint%202/exercicios/casoLoja/loja_consultas.sql)
+## Evidências
 
+- **Modelo Dimensional**  
+  ![Evidência 1](evidencias/dimensional.png)
 
-# Evidências
+- **Modelo Relacional**  
+  ![Evidência 2](evidencias/relacional.png)
 
-Modole dimensional
-![Evidencia 1](evidencias/dimensional.png)
+## Certificados
 
 Modole relacional
 ![Evidencia 2](evidencias/relacional.png)
