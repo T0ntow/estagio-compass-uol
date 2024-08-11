@@ -15,7 +15,9 @@ tenho 20 anos e atualmente estou cursando Sistema de Informação no IFBA.
 
 6. [Sprint 6](Sprint%206/README.md)
 
-6. [Sprint 7](Sprint%207/README.md)
+7. [Sprint 7](Sprint%207/README.md)
+
+8. [Sprint 8](Sprint%208/README.md)
 
 
 ## Aprendizados
@@ -40,3 +42,7 @@ Durante essa sprint, aprendi bastante sobre diversos serviços da AWS, enriquece
 
 #### Sprint 7
 Na sétima sprint, avancei significativamente nos serviços da AWS, solidificando meu conhecimento em AWS Lambda ao integrar a função para trazer dados de uma API para o Amazon S3
+
+#### Sprint 8
+Na oitava sprint, desenvolvi jobs no AWS Glue para processar dados JSON e CSV, realizando transformações como a remoção de valores nulos e salvando os resultados no S3 em formato PARQUET. Esse desafio aprimorou minhas habilidades em manipulação de dados em um ambiente de Data Lake, além de fortalecer meu entendimento das boas práticas de ETL na nuvem.
+
