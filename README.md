@@ -46,3 +46,5 @@ Na sétima sprint, avancei significativamente nos serviços da AWS, solidificand
 #### Sprint 8
 Na oitava sprint, desenvolvi jobs no AWS Glue para processar dados JSON e CSV, realizando transformações como a remoção de valores nulos e salvando os resultados no S3 em formato PARQUET. Esse desafio aprimorou minhas habilidades em manipulação de dados em um ambiente de Data Lake, além de fortalecer meu entendimento das boas práticas de ETL na nuvem.
 
+#### Sprint 9
+Na nona sprint, desenvolvi um job no AWS Glue para processar dados da camada Trusted e enviá-los para a camada Refined. Esse processo envolveu preparar os dados para análise no Amazon QuickSight, realizando transformações adicionais e otimizando o armazenamento em formato PARQUET.
