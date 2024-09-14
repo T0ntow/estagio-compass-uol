@@ -21,7 +21,7 @@ tenho 20 anos e atualmente estou cursando Sistema de Informação no IFBA.
 
 9. [Sprint 9](Sprint%209/README.md)
 
-10. [Sprint 9](Sprint%209/README.md)
+10. [Sprint 10](Sprint%2010/README.md)
 
 ## Aprendizados
 
