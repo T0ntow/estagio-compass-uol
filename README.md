@@ -19,7 +19,9 @@ tenho 20 anos e atualmente estou cursando Sistema de Informação no IFBA.
 
 8. [Sprint 8](Sprint%208/README.md)
 
-8. [Sprint 9](Sprint%209/README.md)
+9. [Sprint 9](Sprint%209/README.md)
+
+10. [Sprint 9](Sprint%209/README.md)
 
 ## Aprendizados
 
@@ -49,3 +51,6 @@ Na oitava sprint, desenvolvi jobs no AWS Glue para processar dados JSON e CSV, r
 
 #### Sprint 9
 Na nona sprint, desenvolvi um job no AWS Glue para processar dados da camada Trusted e enviá-los para a camada Refined. Esse processo envolveu preparar os dados para análise no Amazon QuickSight, realizando transformações adicionais e otimizando o armazenamento em formato PARQUET.
+
+#### Sprint 10
+Na décima sprint, trabalhei na configuração e análise dos dados no Amazon QuickSight. Esse desafio tem sido fundamental para aprofundar meu conhecimento na criação de dashboards e visualizações interativas. Aprendi a configurar fontes de dados, criar análises e relatórios, e aplicar filtros e controles para obter insights valiosos. Essa experiência tem sido crucial para entender como transformar dados processados em informações úteis para a tomada de decisões.
